@@ -1,0 +1,5 @@
+Os outros exercícios realizados anteriormente:
+	- Eu aprendi o MergeSort
+	- Soma de Casas
+	- Contar bits
+Não foram incluídos na pasta.
